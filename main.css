@@ -1,0 +1,15 @@
+/* Updates style for all Paragraphs <p> */
+
+p {
+   color: orange;
+}
+
+div {
+	color:red;
+}
+
+.boldStatement {
+	font-weight: bold;
+}
+
+
