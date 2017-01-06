@@ -14,16 +14,10 @@ Operators = +, -, % .. ect.
 Expressions = 3+1 
 Statement = ends an expression with ";"
 
-
-
-
-
 */
 
 
-
-
-
+console.log ('Hello World');
 
 
 
