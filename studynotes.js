@@ -19,6 +19,7 @@ Statement = ends an expression with ";"
 
 console.log ('Hello World');
 console.log ("need to update");
+console.log("Hello Mike");
 
 
 
